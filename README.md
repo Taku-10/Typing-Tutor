@@ -9,7 +9,7 @@ Requirements To run this application, you will need to have the following instal
 To install this application, follow these steps:
 
 1. Clone the repository to your local machine
-2. Navigate to the project directory using the command
+2. Navigate to the project directory
 3. Compile the program using the command: make
 4. Run the program using the command: make run
 5. Follow the on-screen instructions to play the game.
